@@ -20,3 +20,14 @@ if out_of_guesses:
     print("Out of guesses, You lose")
 else:
     print("You win")
+
+#for loop
+for letter in "Richard Mars":
+    print(letter)    
+
+friends = ["Grace", "Janet", "Tash", "Akis"] 
+
+for friend in friends:
+    print(friend)
+
+#exponent function
